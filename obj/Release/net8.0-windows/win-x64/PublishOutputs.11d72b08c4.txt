@@ -1,0 +1,10 @@
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\MyWinFormsApp.exe
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\runtimes\win-x64\native\WebView2Loader.dll
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\MyWinFormsApp.dll
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\MyWinFormsApp.deps.json
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\MyWinFormsApp.runtimeconfig.json
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\MyWinFormsApp.pdb
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\Microsoft.Web.WebView2.Core.dll
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\Microsoft.Web.WebView2.WinForms.dll
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\Microsoft.Web.WebView2.Wpf.dll
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\bin\Release\net8.0-windows\win-x64\publish\WebView2Loader.dll
