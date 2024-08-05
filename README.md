@@ -1,5 +1,8 @@
 # 多用户网址导航系统
 
+build
+dotnet publish -c Release -r win-x64 --self-contained
+
 ## 安装指南
 
 1. **下载并解压 `public.zip` 文件**

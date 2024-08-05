@@ -14,6 +14,7 @@ D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8
 D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
 D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.AssemblyInfo.cs
 D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
+D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.sourcelink.json
 D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFor.317D71AD.Up2Date
 D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.dll
 D:\documents\git_clone_lico_dir\my_test\windows_dir\MyWinFormsApp\obj\Debug\net8.0-windows\refint\MyWinFormsApp.dll
