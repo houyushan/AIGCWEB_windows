@@ -3,6 +3,9 @@
 build
 dotnet publish -c Release -r win-x64 --self-contained
 
+git lfs install
+git lfs track "*.zip"
+
 ## 安装指南
 
 1. **下载并解压 `public.zip` 文件**
